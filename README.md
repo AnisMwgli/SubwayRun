@@ -48,21 +48,21 @@ npm run dev
 
 ## 📂 Structure du projet
 ```
-┗src/
-  ┗components/
-    ┗Player.jsx
-    ┗Obstacle.jsx
-    ┗Lane.jsx
-    ┗Coin.jsx
-    ┗Score.jsx
-    ┗GameOver.jsx
-  ┗context/
-    ┗GameContext.jsx
-  ┗hooks/
-    ┗useGameLoop.js
-  ┗assets/
-  ┗App.jsx
-  ┗main.jsx
+┗ src/
+  ┗ components/
+    ┗ Player.jsx
+    ┗ Obstacle.jsx
+    ┗ Lane.jsx
+    ┗ Coin.jsx
+    ┗ Score.jsx
+    ┗ GameOver.jsx
+  ┗ context/
+    ┗ GameContext.jsx
+  ┗ hooks/
+    ┗ useGameLoop.js
+  ┗ assets/
+  ┗ App.jsx
+  ┗ main.jsx
 ```
 
 ---
