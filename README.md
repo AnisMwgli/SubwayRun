@@ -44,6 +44,8 @@ Lancer le jeu en local :
 npm run dev
 ```
 
+---
+
 📂 Structure du projet
 ```
 src/
@@ -63,6 +65,8 @@ src/
   main.jsx
 ```
 
+---
+
 🕹️ Gameplay
 
 Contrôles :
@@ -74,6 +78,8 @@ Contrôles :
 Objectif :
 Éviter les obstacles, collecter les bonus, et tenir le plus longtemps possible pour améliorer son score.
 
+---
+
 🚀 Améliorations futures
 
 - Ajout du saut et de la glissade
@@ -82,6 +88,8 @@ Objectif :
 - Skins du personnage
 - Changement d’environnement (jour/nuit, ville, métro…)
 - Son & effets audio
+
+---
 
 👥 Crédits
 
