@@ -46,7 +46,7 @@ npm run dev
 
 ---
 
-📂 Structure du projet
+## 📂 Structure du projet
 ```
 src/
   components/
@@ -67,7 +67,7 @@ src/
 
 ---
 
-🕹️ Gameplay
+## 🕹️ Gameplay
 
 Contrôles :
 ```
@@ -80,7 +80,7 @@ Objectif :
 
 ---
 
-🚀 Améliorations futures
+## 🚀 Améliorations futures
 
 - Ajout du saut et de la glissade
 - Nouveaux types d’obstacles
@@ -91,11 +91,11 @@ Objectif :
 
 ---
 
-👥 Crédits
+## 👥 Crédits
 
 Projet réalisé dans un cadre pédagogique.
 Développé par : Anis, Aymen, Jean Julien 
 
-📜 Licence
+## 📜 Licence
 
 Ce projet est libre d’utilisation à des fins personnelles ou éducatives.
