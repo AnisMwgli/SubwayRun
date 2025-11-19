@@ -96,6 +96,8 @@ Objectif :
 Projet réalisé dans un cadre pédagogique.
 Développé par : Anis, Aymen, Jean Julien 
 
+---
+
 ## 📜 Licence
 
 Ce projet est libre d’utilisation à des fins personnelles ou éducatives.
