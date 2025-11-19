@@ -76,17 +76,12 @@ Objectif :
 
 🚀 Améliorations futures
 
-Ajout du saut et de la glissade
-
-Nouveaux types d’obstacles
-
-Multiplicateurs de score
-
-Skins du personnage
-
-Changement d’environnement (jour/nuit, ville, métro…)
-
-Son & effets audio
+- Ajout du saut et de la glissade
+- Nouveaux types d’obstacles
+- Multiplicateurs de score
+- Skins du personnage
+- Changement d’environnement (jour/nuit, ville, métro…)
+- Son & effets audio
 
 👥 Crédits
 
