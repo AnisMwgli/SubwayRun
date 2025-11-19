@@ -94,7 +94,7 @@ Objectif :
 ## 👥 Crédits
 
 Projet réalisé dans un cadre pédagogique.
-Développé par : Anis, Aymen, Julien 
+Développé par : Anis, Aymen et Julien 
 
 ---
 
