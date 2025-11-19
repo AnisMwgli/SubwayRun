@@ -31,7 +31,7 @@ SubwayRun est un mini-jeu d’arcade inspiré de Subway Surfers. Le joueur court
 Clone le projet :
 
 ```bash
-git clone https://github.com/<ton-user>/SubwayRun
+git clone https://github.com/AnisMwgli/SubwayRun
 cd SubwayRun
 ```
 
